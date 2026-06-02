@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/chapolruta/static/css/main.e6c13ad2.css",
-    "main.js": "/chapolruta/static/js/main.ed8b3d00.js",
-    "static/js/453.f821aed1.chunk.js": "/chapolruta/static/js/453.f821aed1.chunk.js",
-    "index.html": "/chapolruta/index.html",
-    "main.e6c13ad2.css.map": "/chapolruta/static/css/main.e6c13ad2.css.map",
-    "main.ed8b3d00.js.map": "/chapolruta/static/js/main.ed8b3d00.js.map",
-    "453.f821aed1.chunk.js.map": "/chapolruta/static/js/453.f821aed1.chunk.js.map"
+    "main.css": "/Chapolruta/static/css/main.e6c13ad2.css",
+    "main.js": "/Chapolruta/static/js/main.86bcba17.js",
+    "static/js/453.f821aed1.chunk.js": "/Chapolruta/static/js/453.f821aed1.chunk.js",
+    "index.html": "/Chapolruta/index.html",
+    "main.e6c13ad2.css.map": "/Chapolruta/static/css/main.e6c13ad2.css.map",
+    "main.86bcba17.js.map": "/Chapolruta/static/js/main.86bcba17.js.map",
+    "453.f821aed1.chunk.js.map": "/Chapolruta/static/js/453.f821aed1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.ed8b3d00.js"
+    "static/js/main.86bcba17.js"
   ]
 }
